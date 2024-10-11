@@ -1,3 +1,4 @@
+- [Kernel index [LWN.net]](https://lwn.net/Kernel/Index/#Development_model-Patterns) Linux kernel materials
 
 # About
 
