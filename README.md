@@ -1,3 +1,4 @@
+- [前言 | Kernel Exploring](https://richardweiyang-2.gitbook.io/kernel-exploring/) kernel exploring gitbook
 - [Kernel index [LWN.net]](https://lwn.net/Kernel/Index/#Development_model-Patterns) Linux kernel materials
 
 # About
