@@ -1,3 +1,4 @@
+- [The Linux Kernel documentation — The Linux Kernel  documentation](https://www.kernel.org/doc/html/next/index.html) Linux Kernel documentation
 - [前言 | Kernel Exploring](https://richardweiyang-2.gitbook.io/kernel-exploring/) kernel exploring gitbook
 - [Kernel index [LWN.net]](https://lwn.net/Kernel/Index/#Development_model-Patterns) Linux kernel materials
 
