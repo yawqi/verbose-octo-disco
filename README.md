@@ -1,3 +1,4 @@
+- [系列講座 | Linux 核心設計 | hackfoldr](https://beta.hackfoldr.org/linux) Jim Huang's speech about Linux
 - [OS Development Tutorials on Bona Fide OS Developer](http://www.osdever.net/tutorials/) Tutorials and papers
 - [The Linux Kernel documentation — The Linux Kernel  documentation](https://www.kernel.org/doc/html/next/index.html) Linux Kernel documentation
 - [前言 | Kernel Exploring](https://richardweiyang-2.gitbook.io/kernel-exploring/) kernel exploring gitbook
