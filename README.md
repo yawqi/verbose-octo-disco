@@ -1,3 +1,4 @@
+- [如何干净利落地停止 Linux 线程 --- How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html) How to stop Linux threads cleanly
 - [geektutu/7days-golang: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang) 7 days learn golang
 - [系列講座 | Linux 核心設計 | hackfoldr](https://beta.hackfoldr.org/linux) Jim Huang's speech about Linux
 - [OS Development Tutorials on Bona Fide OS Developer](http://www.osdever.net/tutorials/) Tutorials and papers
