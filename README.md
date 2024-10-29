@@ -1,3 +1,4 @@
+- [Epoll 从根本上被破坏了 2/2 - 今日创意 --- Epoll is fundamentally broken 2/2 — Idea of the day](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/#fn:tuple) epoll and io multiplexing
 - [Practical linux tracing part 0/X: why did i trace ?](https://medium.com/coccoc-engineering-blog/practical-linux-tracing-part-0-x-why-did-i-trace-5597a35a3bb5) Practical linux tracing
 - [如何干净利落地停止 Linux 线程 --- How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html) How to stop Linux threads cleanly
 - [geektutu/7days-golang: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang) 7 days learn golang
