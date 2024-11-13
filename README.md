@@ -1,3 +1,4 @@
+- [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/) Something about Local LLMs
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
 - [Epoll 从根本上被破坏了 2/2 - 今日创意 --- Epoll is fundamentally broken 2/2 — Idea of the day](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/#fn:tuple) epoll and io multiplexing
 - [Practical linux tracing part 0/X: why did i trace ?](https://medium.com/coccoc-engineering-blog/practical-linux-tracing-part-0-x-why-did-i-trace-5597a35a3bb5) Practical linux tracing
