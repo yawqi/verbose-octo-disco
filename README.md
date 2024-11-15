@@ -1,3 +1,4 @@
+- [Shell脚本深入教程：Bash解析命令行和eval命令](https://www.junmajinlong.com/shell/script_course/shell_cmdline_parse_eval/index.html) Bash Tutorial
 - [💻【C++】研发基本功 - GTest / GMock 单元测试实践手册](https://imageslr.com/2023/gtest.html) Testing - GTest & GMock Basic
 - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/) Something about Local LLMs
 - [6 Techniques I Use to Create a Great User Experience for Shell Scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
