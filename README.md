@@ -1,3 +1,4 @@
+- [RSA 算法的替代品：X25519/Ed25519 使用记录](https://akarin.dev/2021/09/16/a-taste-of-curve25519/)
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/) Notes - Obisidian
 - [Shell脚本深入教程：Bash解析命令行和eval命令](https://www.junmajinlong.com/shell/script_course/shell_cmdline_parse_eval/index.html) Bash Tutorial
 - [💻【C++】研发基本功 - GTest / GMock 单元测试实践手册](https://imageslr.com/2023/gtest.html) Testing - GTest & GMock Basic
