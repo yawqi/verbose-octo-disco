@@ -1,3 +1,4 @@
+- [On-Stack Dynamic Dispatch - Rust Design Patterns](https://rust-unofficial.github.io/patterns/idioms/on-stack-dyn-dispatch.html)
 - [RSA 算法的替代品：X25519/Ed25519 使用记录](https://akarin.dev/2021/09/16/a-taste-of-curve25519/)
 - [My Obsidian Daily Note Template](https://dannb.org/blog/2022/obsidian-daily-note-template/) Notes - Obisidian
 - [Shell脚本深入教程：Bash解析命令行和eval命令](https://www.junmajinlong.com/shell/script_course/shell_cmdline_parse_eval/index.html) Bash Tutorial
