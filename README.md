@@ -1,3 +1,4 @@
+- [Sandboxing ChromeOS system services](https://www.chromium.org/chromium-os/developer-library/guides/development/sandboxing/)
 - [Linux 中的路径名查找 [LWN.net] --- Pathname lookup in Linux [LWN.net]](https://lwn.net/Articles/649115/)
 - [对 ChromeOS 系统服务进行沙盒处理 --- Sandboxing ChromeOS system services](https://www.chromium.org/chromium-os/developer-library/guides/development/sandboxing/#seccomp-filters)
 - [On-Stack Dynamic Dispatch - Rust Design Patterns](https://rust-unofficial.github.io/patterns/idioms/on-stack-dyn-dispatch.html)
