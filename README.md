@@ -1,3 +1,4 @@
+- [Rust Temporary Lifetimes and "Super Let"](https://blog.m-ou.se/super-let/)
 - [破坏者 - 生锈参考 --- Destructors - The Rust Reference](https://doc.rust-lang.org/reference/destructors.html#constant-promotion)
 - [Rust Temporary Lifetimes and "Super Let"](https://blog.m-ou.se/super-let/)
 - [Rust：临时变量的生命周期-duidaima 堆代码](https://www.duidaima.com/Group/Topic/Rust/19139)
