@@ -1,3 +1,4 @@
+- [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
 - [Rust Temporary lifetimes · baby steps](https://smallcultfollowing.com/babysteps/blog/2023/03/15/temporary-lifetimes/#design-principles)
 - [Rust Temporary Lifetimes and "Super Let"](https://blog.m-ou.se/super-let/)
 - [破坏者 - 生锈参考 --- Destructors - The Rust Reference](https://doc.rust-lang.org/reference/destructors.html#constant-promotion)
