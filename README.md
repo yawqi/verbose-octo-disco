@@ -1,3 +1,4 @@
+- [Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023](https://www.youtube.com/watch?v=lLv1s7rKeCM)
 - [The Taxonomy of Pointers · mcyoung](https://mcyoung.xyz/2021/05/24/ptr-taxonomy/#fn:go-nuts)
 - [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
 - [Rust Temporary lifetimes · baby steps](https://smallcultfollowing.com/babysteps/blog/2023/03/15/temporary-lifetimes/#design-principles)
