@@ -1,3 +1,4 @@
+- [BTRFS and free space - emergency response](https://ohthehugemanatee.org/blog/2019/02/11/btrfs-out-of-space-emergency-response/)
 - [Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023](https://www.youtube.com/watch?v=lLv1s7rKeCM)
 - [The Taxonomy of Pointers · mcyoung](https://mcyoung.xyz/2021/05/24/ptr-taxonomy/#fn:go-nuts)
 - [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
