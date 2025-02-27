@@ -1,3 +1,4 @@
+- [🤖 Agents - a m-ric Collection](https://huggingface.co/collections/m-ric/agents-65ba776fbd9e29f771c07d4e)
 - [AGI Collections](https://blog.frognew.com/library/agi/favorites.html)
 - [Google Agent白皮书[译文&笔记]](https://blog.frognew.com/2025/01/agents-whitepaper-by-google.html)
 - [BTRFS and free space - emergency response](https://ohthehugemanatee.org/blog/2019/02/11/btrfs-out-of-space-emergency-response/)
