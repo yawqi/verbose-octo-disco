@@ -1,3 +1,4 @@
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [🤖 Agents - a m-ric Collection](https://huggingface.co/collections/m-ric/agents-65ba776fbd9e29f771c07d4e)
 - [AGI Collections](https://blog.frognew.com/library/agi/favorites.html)
 - [Google Agent白皮书[译文&笔记]](https://blog.frognew.com/2025/01/agents-whitepaper-by-google.html)
