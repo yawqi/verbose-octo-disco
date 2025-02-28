@@ -1,3 +1,4 @@
+- [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/research/swe-bench-sonnet)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [🤖 Agents - a m-ric Collection](https://huggingface.co/collections/m-ric/agents-65ba776fbd9e29f771c07d4e)
 - [AGI Collections](https://blog.frognew.com/library/agi/favorites.html)
