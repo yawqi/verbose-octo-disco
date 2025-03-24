@@ -1,3 +1,4 @@
+- [字节跳动 | Rust 异步运行时的设计与实现 - Rust精选](https://rustmagazine.github.io/rust_magazine_2021/chapter_12/monoio.html)
 - [Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet](https://www.anthropic.com/research/swe-bench-sonnet)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [🤖 Agents - a m-ric Collection](https://huggingface.co/collections/m-ric/agents-65ba776fbd9e29f771c07d4e)
